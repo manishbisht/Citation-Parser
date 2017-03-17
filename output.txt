@@ -1,7 +1,5 @@
-Input:
-Yu, H and Lee M. 2006. Accessing Bioscience Images from Abstract Sentences. Bioinformatics. Vol 22 No. 14, pages e547-e556.
 Output:
-title: Accessing Bioscience Images from Abstract Sentences
+title: Accessing Bioscience Images from Abstract Sentences.
 journal: Bioinformatics
 author: Yu, H and Lee M
 volume: 22
@@ -9,10 +7,8 @@ year: 2006
 issue: 14
 pages: e547-e556
 
-Input:
-Hong Yu and Minsuk Lee. Accessing Bioscience Images from Abstract Sentences. Bioinformatics. Vol 22 No. 14, pages e547-e556. 2006.
 Output:
-title: Accessing Bioscience Images from Abstract Sentences
+title: Accessing Bioscience Images from Abstract Sentences.
 journal: Bioinformatics
 author: Hong Yu and Minsuk Lee
 volume: 22
@@ -20,14 +16,45 @@ year: 2006
 issue: 14
 pages: e547-e556
 
-Input:
-Yu H, Lee H. 2006. Accessing Bioscience Images from Abstract Sentences. Bioinformatics: 22 (14), e547-e556.
 Output:
-title: Accessing Bioscience Images from Abstract Sentences
+title: Accessing Bioscience Images from Abstract Sentences.
 journal: Bioinformatics
 author: Yu H, Lee H
 volume: 22
 year: 2006
 issue: 14
 pages: e547-e556
+
+Output:
+title: Data matching: concepts and techniques for record linkage, entity resolution, and duplicate detection.
+journal: Springer Science & Business Media
+author: P. Christen,
+year: 2012
+
+Output:
+title: The google file system, in Proceedings of the Nineteenth ACM Symposium on Operating Systems Principles, SOSP 03, (New York, NY, USA),
+journal: 2943, ACM
+author: S. Ghemawat, H. Gobioff, and S.-T. Leung
+year: 2003
+pages: 2943
+
+Output:
+title: Mapreduce: simplified data processing on large clusters, Communications of the ACM,
+author: J. Dean and S. Ghemawat,
+volume: 51
+year: 2008
+issue: 1
+pages: 107113
+
+Output:
+title: Personalization with dynamic profiler.
+journal: In Proceedings of the third international workshop on advanced issues of e-commerce and web-based information systems, WECWI
+author: WU, K.-L., AGGARWAL, C.C. AND YU, P.S. 
+year: 2001
+
+Output:
+title: Recent advances in clinical neurophysiology.
+journal: In: Proceedings of the 10th International Congress of EMG and Clinical Neurophysiology
+author: Kimura J, Shibasaki H, editors
+year: 1996
 

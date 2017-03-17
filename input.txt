@@ -1,3 +1,8 @@
 Yu, H and Lee M. 2006. Accessing Bioscience Images from Abstract Sentences. Bioinformatics. Vol 22 No. 14, pages e547–e556.
 Hong Yu and Minsuk Lee. Accessing Bioscience Images from Abstract Sentences. Bioinformatics. Vol 22 No. 14, pages e547–e556. 2006.
 Yu H, Lee H. 2006. Accessing Bioscience Images from Abstract Sentences. Bioinformatics: 22 (14), e547–e556.
+P. Christen, Data matching: concepts and techniques for record linkage, entity resolution, and duplicate detection. Springer Science & Business Media, 2012.
+S. Ghemawat, H. Gobioff, and S.-T. Leung, The google file system, in Proceedings of the Nineteenth ACM Symposium on Operating Systems Principles, SOSP 03, (New York, NY, USA), pp. 2943, ACM, 2003.
+J. Dean and S. Ghemawat, Mapreduce: simplified data processing on large clusters, Communications of the ACM, vol. 51, no. 1, pp. 107113, 2008.
+WU, K.-L., AGGARWAL, C.C. AND YU, P.S. 2001. Personalization with dynamic profiler. In Proceedings of the third international workshop on advanced issues of e-commerce and web-based information systems, WECWIS 2001, Santa Juan, California, June 2001, IEEE Computer Society, Los Alamitos, CA, 12-20.
+Kimura J, Shibasaki H, editors. Recent advances in clinical neurophysiology. In: Proceedings of the 10th International Congress of EMG and Clinical Neurophysiology: 1995 Oct 15-19; Kyoto, Japan. Amsterdam: Elsevier; 1996.
