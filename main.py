@@ -88,9 +88,9 @@ while line:
             elif text[0] =='e':
                 result['pages'] = text[0:-1]
                 check['pages'] = 1
-
-
-
+    if 'In' in result['journal'][0:2]:
+        result['book-title'] = result['journal']
+        result['journal'] = ''
     output_file.write("Output:\n")
     for i in result:
         if result[i]:

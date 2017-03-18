@@ -32,8 +32,8 @@ author: P. Christen,
 year: 2012
 
 Output:
-title: The google file system, in Proceedings of the Nineteenth ACM Symposium on Operating Systems Principles, SOSP 03, (New York, NY, USA),
-journal: 2943, ACM
+book-title: In Proceedings of the Nineteenth ACM Symposium on Operating Systems Principles, SOSP 03, (New York, NY, USA)
+title: The google file system,
 author: S. Ghemawat, H. Gobioff, and S.-T. Leung
 year: 2003
 pages: 2943
@@ -47,14 +47,14 @@ issue: 1
 pages: 107113
 
 Output:
+book-title: In Proceedings of the third international workshop on advanced issues of e-commerce and web-based information systems, WECWI
 title: Personalization with dynamic profiler.
-journal: In Proceedings of the third international workshop on advanced issues of e-commerce and web-based information systems, WECWI
 author: WU, K.-L., AGGARWAL, C.C. AND YU, P.S. 
 year: 2001
 
 Output:
+book-title: In: Proceedings of the 10th International Congress of EMG and Clinical Neurophysiology
 title: Recent advances in clinical neurophysiology.
-journal: In: Proceedings of the 10th International Congress of EMG and Clinical Neurophysiology
 author: Kimura J, Shibasaki H, editors
 year: 1996
 
