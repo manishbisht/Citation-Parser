@@ -3,7 +3,7 @@ output_file = open('output.txt', 'w')
 line = input_file.readline()
 while line:
     line = line.replace('\n', '')
-    line = line.replace('\xe2\x80\x93', '-')
+    #line = line.replace('\xe2\x80\x93', '-')
     #output_file.write("Input:\n{}\n".format(line))
     line = line.split(' ')
     result = {
@@ -90,7 +90,17 @@ while line:
                 check['pages'] = 1
     if 'In' in result['journal'][0:2]:
         result['book-title'] = result['journal']
+        result['book-title'] = result['book-title'].split(',')[0]
         result['journal'] = ''
+    if len(result['title'].split(",")) > 1:
+        result['publisher'] = result['title'].split(",")[1]
+        if 'Communications' not in result['publisher']:
+            result['publisher'] = ""
+    if "Media" in result['journal']:
+        result['publisher'] = result['journal']
+        result['journal'] = ""
+    result['title'] = result['title'].split(",")[0]
+    result['title'] = result['title'].replace('"', '')
     output_file.write("Output:\n")
     for i in result:
         if result[i]:

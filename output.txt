@@ -5,7 +5,7 @@ author: Yu, H and Lee M
 volume: 22
 year: 2006
 issue: 14
-pages: e547-e556
+pages: e547–e556
 
 Output:
 title: Accessing Bioscience Images from Abstract Sentences.
@@ -14,7 +14,7 @@ author: Hong Yu and Minsuk Lee
 volume: 22
 year: 2006
 issue: 14
-pages: e547-e556
+pages: e547–e556
 
 Output:
 title: Accessing Bioscience Images from Abstract Sentences.
@@ -23,31 +23,32 @@ author: Yu H, Lee H
 volume: 22
 year: 2006
 issue: 14
-pages: e547-e556
+pages: e547–e556
 
 Output:
-title: Data matching: concepts and techniques for record linkage, entity resolution, and duplicate detection.
-journal: Springer Science & Business Media
+publisher: Springer Science & Business Media
+title: Data matching: concepts and techniques for record linkage
 author: P. Christen,
 year: 2012
 
 Output:
-book-title: In Proceedings of the Nineteenth ACM Symposium on Operating Systems Principles, SOSP 03, (New York, NY, USA)
-title: The google file system,
+book-title: In Proceedings of the Nineteenth ACM Symposium on Operating Systems Principles
+title: The google file system
 author: S. Ghemawat, H. Gobioff, and S.-T. Leung
 year: 2003
-pages: 2943
+pages: 29-43
 
 Output:
-title: Mapreduce: simplified data processing on large clusters, Communications of the ACM,
+publisher:  Communications of the ACM
+title: Mapreduce: simplified data processing on large clusters
 author: J. Dean and S. Ghemawat,
 volume: 51
 year: 2008
 issue: 1
-pages: 107113
+pages: 107-113
 
 Output:
-book-title: In Proceedings of the third international workshop on advanced issues of e-commerce and web-based information systems, WECWI
+book-title: In Proceedings of the third international workshop on advanced issues of e-commerce and web-based information systems
 title: Personalization with dynamic profiler.
 author: WU, K.-L., AGGARWAL, C.C. AND YU, P.S. 
 year: 2001
